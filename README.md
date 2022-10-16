@@ -1,12 +1,12 @@
 # Hi there👋, I'm Anitha Nagadasari
 
 
-## I'm a Passionate Frontend Develoer👩‍💻.
+## I'm a Passionate Frontend Developer👩‍💻.
 
-- Currently Working in Indegene as Frontend Developer.
-- Currently aspiring Full stack development course.
-- Projects are available in Netflify.Please have a look in https://app.netlify.com/teams/anitha-nagadasarink/
-- How to reach me anitha.nagadasarik95@gmail.com
+#### - 🔭 Currently Working in Indegene as Frontend Developer.
+#### - 🌱 Currently aspiring Full stack development course.
+#### - 👨‍💻 Projects are available in Netflify.Please have a look in https://app.netlify.com/teams/anitha-nagadasarink/
+#### - 📫 How to reach me anitha.nagadasarik95@gmail.com
 
 #### UI Language and Tools:
 
