@@ -5,7 +5,7 @@
 
 - #### 🔭 Currently Working in Indegene as Frontend Developer.
 - #### 🌱 Currently aspiring Full stack development course.
-- #### 👨‍💻 Projects are available in Netflify.Please have a look in https://app.netlify.com/teams/anitha-nagadasarink/ (In-progress)
+- #### 👨‍💻 Projects are available in Netflify.Please have a look in https://anitha-nagadasari.netlify.app/ (In-progress)
 - #### 📫 How to reach me anithan.anunk@gmail.com
 
 
